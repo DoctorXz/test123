@@ -1,2 +1,3 @@
-print("ahahhahaahahhahaah")
-print("hshshdihihdwidwhdi")
+
+print("hien len dum cai")
+
